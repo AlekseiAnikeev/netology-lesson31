@@ -1,4 +1,4 @@
-## [Условие задания](asd)
+## [Условие задания](https://github.com/AlekseiAnikeev/netology-lesson31/blob/main/EXERCISE.md)
 
 ### Ответ
 
